@@ -1,4 +1,4 @@
-#BMI Calculator
+# BMI Calculator
 This is a very basic project that calculates your Body Mass Index (BMI) based on the user's height and weight. 
 
 
